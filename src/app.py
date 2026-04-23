@@ -47,6 +47,10 @@ def main():
                          "quiz_words", "quiz_index", "quiz_score", "quiz_answered",
                          "quiz_num", "quiz_correct"]:
                 st.session_state.pop(key, None)
+            # 清除 quiz_options_* 缓存
+            keys_to_delete = [k for k in st.session_state if k.startswith("quiz_options_")]
+            for k in keys_to_delete:
+                del st.session_state[k]
             st.session_state.known = set()
             st.session_state.unknown = set()
             st.session_state.current_dict = dict_name

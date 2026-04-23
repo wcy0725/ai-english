@@ -31,19 +31,26 @@ def render_quiz(words: list[dict]):
     if q_idx >= num_questions:
         st.success(f"测验完成！得分: {score['correct']}/{score['total']}")
         if st.button("再来一次"):
+            # 清除所有 quiz 相关缓存
+            keys_to_delete = [k for k in st.session_state if k.startswith("quiz_options_")]
+            for k in keys_to_delete:
+                del st.session_state[k]
             del st.session_state.quiz_words
             st.rerun()
         return
 
     # 当前题目
     word = words[st.session_state.quiz_words[q_idx]]
-
-    # 生成选项：1 个正确 + 3 个干扰
     correct_meaning = word["meaning"]
-    others = [w for w in words if w["meaning"] != correct_meaning]
-    distractors = random.sample(others, min(3, len(others)))
-    options = [correct_meaning] + [d["meaning"] for d in distractors]
-    random.shuffle(options)
+
+    # 生成选项（每道题只生成一次，存入 session_state 避免重渲染时打乱顺序）
+    if f"quiz_options_{q_idx}" not in st.session_state:
+        others = [w for w in words if w["meaning"] != correct_meaning]
+        distractors = random.sample(others, min(3, len(others)))
+        options = [correct_meaning] + [d["meaning"] for d in distractors]
+        random.shuffle(options)
+        st.session_state[f"quiz_options_{q_idx}"] = options
+    options = st.session_state[f"quiz_options_{q_idx}"]
 
     # 显示题目
     st.markdown(f"<h2 style='text-align:center'>{word['word']}</h2>", unsafe_allow_html=True)
