@@ -29,7 +29,7 @@ def render_word_list(words: list[dict]):
 
     # 展示
     for w in filtered:
-        with st.expander(f"**{w['word']}** {w['phonetic']}  —  {w['pos']} {w['meaning']}"):
+        with st.expander(f"**{w['word']}** {w['phonetic']}  —  {w['pos']} {w['meaning']}  |  出现 {w['frequency']} 次"):
             st.markdown(f"出现频次: **{w['frequency']}次**")
             st.markdown(f"📝 **例句:** {w['example_en']}")
             st.markdown(f"📝 **翻译:** {w['example_zh']}")

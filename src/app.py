@@ -40,6 +40,17 @@ def main():
 
         dict_data = dictionaries[dict_name]
         words = dict_data["words"]
+
+        # 词典切换时清除模式相关状态
+        if st.session_state.get("current_dict") != dict_name:
+            for key in ["fc_order", "fc_was_shuffle", "fc_flipped", "current_index",
+                         "quiz_words", "quiz_index", "quiz_score", "quiz_answered",
+                         "quiz_num", "quiz_correct"]:
+                st.session_state.pop(key, None)
+            st.session_state.known = set()
+            st.session_state.unknown = set()
+            st.session_state.current_dict = dict_name
+
         init_session_state(words)
 
         # 学习统计

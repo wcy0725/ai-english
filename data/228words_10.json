@@ -1,0 +1,226 @@
+{
+  "name": "228个高频词汇 (10/10)",
+  "description": "根据近5年高考英语真题统计的高频词汇清单，本分册 frequency 范围: 55-146",
+  "words": [
+    {
+      "id": 26,
+      "word": "rather",
+      "frequency": 55,
+      "phonetic": "/'rɑːðər/",
+      "pos": "adv.",
+      "meaning": "相当；宁可",
+      "example_en": "I would rather stay at home.",
+      "example_zh": "我宁愿待在家里。"
+    },
+    {
+      "id": 49,
+      "word": "simply",
+      "frequency": 56,
+      "phonetic": "/'sɪmpli/",
+      "pos": "adv.",
+      "meaning": "简单地；仅仅",
+      "example_en": "I simply don't understand.",
+      "example_zh": "我就是不明白。"
+    },
+    {
+      "id": 102,
+      "word": "effort",
+      "frequency": 56,
+      "phonetic": "/'εfert/",
+      "pos": "n.",
+      "meaning": "努力；尽力",
+      "example_en": "Success requires effort.",
+      "example_zh": "成功需要努力。"
+    },
+    {
+      "id": 7,
+      "word": "material",
+      "frequency": 58,
+      "phonetic": "/me'tɪriəl/",
+      "pos": "n.",
+      "meaning": "材料；物质",
+      "example_en": "This jacket is made of soft material.",
+      "example_zh": "这件夹克是用柔软的材料做的。"
+    },
+    {
+      "id": 109,
+      "word": "concern",
+      "frequency": 59,
+      "phonetic": "/kənsarn/",
+      "pos": "n.",
+      "meaning": "关心；担忧",
+      "example_en": "Air pollution is a major concern.",
+      "example_zh": "空气污染是一个主要问题。"
+    },
+    {
+      "id": 104,
+      "word": "response",
+      "frequency": 63,
+      "phonetic": "/rɪ'sɒns/",
+      "pos": "n.",
+      "meaning": "回应；答 复",
+      "example_en": "I'm waiting for your response.",
+      "example_zh": "我在等你的回复。"
+    },
+    {
+      "id": 19,
+      "word": "offer",
+      "frequency": 68,
+      "phonetic": "/'ɒfer/",
+      "pos": "v.",
+      "meaning": "提供；提议",
+      "example_en": "He offered me a cup of tea.",
+      "example_zh": "他给我递了一杯茶。"
+    },
+    {
+      "id": 57,
+      "word": "performance",
+      "frequency": 71,
+      "phonetic": "/pər'fɔːrməns/",
+      "pos": "n.",
+      "meaning": "表现",
+      "example_en": "His performance at work is excellent.",
+      "example_zh": "他的工作表现非常出色。"
+    },
+    {
+      "id": 127,
+      "word": "expert",
+      "frequency": 71,
+      "phonetic": "/ɪkspɜːrt/",
+      "pos": "n.",
+      "meaning": "专家；行家",
+      "example_en": "He is an expert in history.",
+      "example_zh": "他是历史专家。"
+    },
+    {
+      "id": 103,
+      "word": "consider",
+      "frequency": 72,
+      "phonetic": "/kensɪder/",
+      "pos": "v.",
+      "meaning": "考虑；认为",
+      "example_en": "Please consider my suggestion.",
+      "example_zh": "请考虑我的建议。"
+    },
+    {
+      "id": 74,
+      "word": "employee",
+      "frequency": 74,
+      "phonetic": "/εm'ploɪiː/",
+      "pos": "n.",
+      "meaning": "雇员；员工",
+      "example_en": "He is a good employee.",
+      "example_zh": "他是个好员工。"
+    },
+    {
+      "id": 34,
+      "word": "saving",
+      "frequency": 78,
+      "phonetic": "/'seɪvɪŋ/",
+      "pos": "n.",
+      "meaning": "储蓄；节省",
+      "example_en": "She put her savings in the bank.",
+      "example_zh": "她把积蓄存入了银行。"
+    },
+    {
+      "id": 3,
+      "word": "likely",
+      "frequency": 85,
+      "phonetic": "/'laɪkli/",
+      "pos": "a.",
+      "meaning": "可能的",
+      "example_en": "It is likely to rain tomorrow.",
+      "example_zh": "明天很可能会下雨。"
+    },
+    {
+      "id": 71,
+      "word": "risk",
+      "frequency": 87,
+      "phonetic": "/rɪsk/",
+      "pos": "n.",
+      "meaning": "风险；危险",
+      "example_en": "Smoking is a risk to your health.",
+      "example_zh": "吸烟对你的健康有风险。"
+    },
+    {
+      "id": 112,
+      "word": "stress",
+      "frequency": 91,
+      "phonetic": "/stres/",
+      "pos": "n.",
+      "meaning": "压力；紧张",
+      "example_en": "Too much stress is bad for health.",
+      "example_zh": "压力太大对健康不好。"
+    },
+    {
+      "id": 101,
+      "word": "value",
+      "frequency": 102,
+      "phonetic": "/'vælju:/",
+      "pos": "n.",
+      "meaning": "价值；重要性",
+      "example_en": "The value of the house has increased.",
+      "example_zh": "房子的价值上涨了。"
+    },
+    {
+      "id": 21,
+      "word": "whether",
+      "frequency": 109,
+      "phonetic": "/'wɛðər/",
+      "pos": "conj.",
+      "meaning": "是否",
+      "example_en": "I don't know whether he will come.",
+      "example_zh": "我不知道他是否会来。"
+    },
+    {
+      "id": 107,
+      "word": "community",
+      "frequency": 112,
+      "phonetic": "/kemju:nɪti/",
+      "pos": "n.",
+      "meaning": "社区；团体",
+      "example_en": "We live in a small community.",
+      "example_zh": "我们住在一个小社区里。"
+    },
+    {
+      "id": 12,
+      "word": "tend",
+      "frequency": 122,
+      "phonetic": "/tend/",
+      "pos": "v.",
+      "meaning": "倾向于；易于",
+      "example_en": "People tend to eat more in winter.",
+      "example_zh": "人们在冬天往往吃得更多。"
+    },
+    {
+      "id": 147,
+      "word": "relationship",
+      "frequency": 123,
+      "phonetic": "/rɪ'leɪʃenʃɪp/",
+      "pos": "n.",
+      "meaning": "关系；联系",
+      "example_en": "Their relationship is very strong.",
+      "example_zh": "他们的关系非常牢固。"
+    },
+    {
+      "id": 105,
+      "word": "experience",
+      "frequency": 146,
+      "phonetic": "/ɪk'spɪəriəns/",
+      "pos": "n.",
+      "meaning": "经验；经历",
+      "example_en": "She has teaching experience.",
+      "example_zh": "她有教学经验。"
+    },
+    {
+      "id": 111,
+      "word": "increase",
+      "frequency": 146,
+      "phonetic": "/ɪnkri:s/",
+      "pos": "v.",
+      "meaning": "增加；提 高",
+      "example_en": "The population increased rapidly.",
+      "example_zh": "人口迅速增长。"
+    }
+  ]
+}

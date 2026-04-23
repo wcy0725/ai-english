@@ -1,0 +1,236 @@
+{
+  "name": "228个高频词汇 (7/10)",
+  "description": "根据近5年高考英语真题统计的高频词汇清单，本分册 frequency 范围: 17-24",
+  "words": [
+    {
+      "id": 215,
+      "word": "persuasion",
+      "frequency": 17,
+      "phonetic": "/pesweɪʒən/",
+      "pos": "n.",
+      "meaning": "说服",
+      "example_en": "It took a lot of persuasion.",
+      "example_zh": "这费了很大的口舌。"
+    },
+    {
+      "id": 217,
+      "word": "replace",
+      "frequency": 17,
+      "phonetic": "/rɪ'pleɪs/",
+      "pos": "v.",
+      "meaning": "替换；取代",
+      "example_en": "Please replace the old batteries.",
+      "example_zh": "请更换旧电池。"
+    },
+    {
+      "id": 224,
+      "word": "senior",
+      "frequency": 17,
+      "phonetic": "/'siːniər/",
+      "pos": "a.",
+      "meaning": "高级的；年长的",
+      "example_en": "He is a senior employee.",
+      "example_zh": "他是一位资深员工。"
+    },
+    {
+      "id": 76,
+      "word": "principle",
+      "frequency": 18,
+      "phonetic": "/'prɪnsəpl/",
+      "pos": "n.",
+      "meaning": "原则；原理",
+      "example_en": "We must follow this principle.",
+      "example_zh": "我们必须遵循这个原则。"
+    },
+    {
+      "id": 93,
+      "word": "select",
+      "frequency": 18,
+      "phonetic": "/sɪlεkt/",
+      "pos": "v.",
+      "meaning": "选择；挑 选",
+      "example_en": "Please select your answer.",
+      "example_zh": "请选择你的答案。"
+    },
+    {
+      "id": 191,
+      "word": "abrupt",
+      "frequency": 18,
+      "phonetic": "/ə'brʌpt/",
+      "pos": "a.",
+      "meaning": "突然的；急剧的",
+      "example_en": "The meeting came to an abrupt end.",
+      "example_zh": "会议突然结束了。"
+    },
+    {
+      "id": 204,
+      "word": "expose",
+      "frequency": 18,
+      "phonetic": "/ɪkspeuz/",
+      "pos": "vt.",
+      "meaning": "暴露；揭露",
+      "example_en": "Don't expose your skin to the sun for too long.",
+      "example_zh": "不要让皮肤在太阳下晒太久。"
+    },
+    {
+      "id": 223,
+      "word": "accent",
+      "frequency": 18,
+      "phonetic": "/'æksənt/",
+      "pos": "n.",
+      "meaning": "口音；重音",
+      "example_en": "She speaks with a British accent.",
+      "example_zh": "她说话带有英国口音。"
+    },
+    {
+      "id": 60,
+      "word": "pose",
+      "frequency": 19,
+      "phonetic": "/pouz/",
+      "pos": "v.",
+      "meaning": "摆姿势；提出",
+      "example_en": "Please pose for the photograph.",
+      "example_zh": "请摆好姿势拍照。"
+    },
+    {
+      "id": 75,
+      "word": "potential",
+      "frequency": 19,
+      "phonetic": "/pe'tεnfəl/",
+      "pos": "a.",
+      "meaning": "潜在的；可能的",
+      "example_en": "She has great potential as a singer.",
+      "example_zh": "作为歌手，她很有潜力。"
+    },
+    {
+      "id": 81,
+      "word": "truly",
+      "frequency": 19,
+      "phonetic": "/'tru:li/",
+      "pos": "adv.",
+      "meaning": "真正地；忠实地",
+      "example_en": "I am truly sorry for your loss.",
+      "example_zh": "对你的损失我深感抱歉。"
+    },
+    {
+      "id": 205,
+      "word": "device",
+      "frequency": 19,
+      "phonetic": "/dɪvaɪs/",
+      "pos": "n.",
+      "meaning": "装置；策略",
+      "example_en": "This is a useful device.",
+      "example_zh": "这是一个有用的装置。"
+    },
+    {
+      "id": 210,
+      "word": "appliance",
+      "frequency": 19,
+      "phonetic": "/ə'plaɪəns/",
+      "pos": "n.",
+      "meaning": "应用",
+      "example_en": "This kitchen appliance is very useful.",
+      "example_zh": "这个厨房用具很有用。"
+    },
+    {
+      "id": 128,
+      "word": "financial",
+      "frequency": 20,
+      "phonetic": "/faɪ'nænʃəl/",
+      "pos": "a.",
+      "meaning": "财务的；金融的",
+      "example_en": "We need financial help.",
+      "example_zh": "我们需要经济帮助。"
+    },
+    {
+      "id": 144,
+      "word": "difficulty",
+      "frequency": 20,
+      "phonetic": "/'dɪfɪkəlti/",
+      "pos": "n.",
+      "meaning": "困难；难题",
+      "example_en": "I have difficulty learning math.",
+      "example_zh": "我学数学有困难。"
+    },
+    {
+      "id": 40,
+      "word": "campus",
+      "frequency": 21,
+      "phonetic": "/'kæmpəs/",
+      "pos": "n.",
+      "meaning": "校园",
+      "example_en": "The university campus is very beautiful.",
+      "example_zh": "大学校园非常美丽。"
+    },
+    {
+      "id": 62,
+      "word": "principal",
+      "frequency": 21,
+      "phonetic": "/'prɪnsəpl/",
+      "pos": "a.",
+      "meaning": "主要的；校长",
+      "example_en": "The principal of our school is kind.",
+      "example_zh": "我们学校的校长很和蔼。"
+    },
+    {
+      "id": 221,
+      "word": "extensive",
+      "frequency": 21,
+      "phonetic": "/ɪk'stensɪv/",
+      "pos": "a.",
+      "meaning": "广泛的；大量的",
+      "example_en": "He has extensive knowledge.",
+      "example_zh": "他知识渊博。"
+    },
+    {
+      "id": 227,
+      "word": "collective",
+      "frequency": 21,
+      "phonetic": "/ke'lektɪv/",
+      "pos": "a.",
+      "meaning": "集体的",
+      "example_en": "We made a collective decision.",
+      "example_zh": "我们做出了集体决定。"
+    },
+    {
+      "id": 85,
+      "word": "private",
+      "frequency": 22,
+      "phonetic": "/'praɪvɪt/",
+      "pos": "a.",
+      "meaning": "私人的；秘密的",
+      "example_en": "This is a private conversation.",
+      "example_zh": "这是私人谈话。"
+    },
+    {
+      "id": 121,
+      "word": "puzzle",
+      "frequency": 23,
+      "phonetic": "/'pʌzəl/",
+      "pos": "n.",
+      "meaning": "难题；谜题",
+      "example_en": "The math puzzle was difficult.",
+      "example_zh": "这个数学难题很难。"
+    },
+    {
+      "id": 5,
+      "word": "construction",
+      "frequency": 24,
+      "phonetic": "/ken'strʌkʃən/",
+      "pos": "n.",
+      "meaning": "建设；建造",
+      "example_en": "The construction of the new bridge took two years.",
+      "example_zh": "新桥的建设花了两年时间。"
+    },
+    {
+      "id": 122,
+      "word": "spot",
+      "frequency": 24,
+      "phonetic": "/spɒt/",
+      "pos": "v.",
+      "meaning": "发现；认出",
+      "example_en": "I spotted my friend in the crowd.",
+      "example_zh": "我在人群中认出了我的朋友。"
+    }
+  ]
+}

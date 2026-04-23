@@ -47,7 +47,7 @@ def render_quiz(words: list[dict]):
 
     # 显示题目
     st.markdown(f"<h2 style='text-align:center'>{word['word']}</h2>", unsafe_allow_html=True)
-    st.markdown(f"<p style='text-align:center;color:gray'>{word['phonetic']}  {word['pos']}</p>", unsafe_allow_html=True)
+    st.markdown(f"<p style='text-align:center;color:gray'>{word['phonetic']}  |  {word['pos']}  |  出现 {word['frequency']} 次</p>", unsafe_allow_html=True)
     st.progress((q_idx + 1) / num_questions, text=f"第 {q_idx + 1}/{num_questions} 题")
 
     # 选择

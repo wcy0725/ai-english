@@ -1,0 +1,226 @@
+{
+  "name": "228个高频词汇 (9/10)",
+  "description": "根据近5年高考英语真题统计的高频词汇清单，本分册 frequency 范围: 36-54",
+  "words": [
+    {
+      "id": 208,
+      "word": "commercial",
+      "frequency": 36,
+      "phonetic": "/ke'mɜːʃel/",
+      "pos": "a.",
+      "meaning": "商业的",
+      "example_en": "This is a commercial building.",
+      "example_zh": "这是一座商业建筑。"
+    },
+    {
+      "id": 31,
+      "word": "rate",
+      "frequency": 37,
+      "phonetic": "/reɪt/",
+      "pos": "n.",
+      "meaning": "比率；速率",
+      "example_en": "The crime rate is decreasing.",
+      "example_zh": "犯罪率正在下降。"
+    },
+    {
+      "id": 94,
+      "word": "specific",
+      "frequency": 37,
+      "phonetic": "/spəsɪfɪk/",
+      "pos": "a.",
+      "meaning": "特定的；具体的",
+      "example_en": "Could you be more specific?",
+      "example_zh": "你能说得更具体些吗？"
+    },
+    {
+      "id": 16,
+      "word": "action",
+      "frequency": 38,
+      "phonetic": "/'ækʃen/",
+      "pos": "n.",
+      "meaning": "行动；行为",
+      "example_en": "We need to take action immediately.",
+      "example_zh": "我们需要立即采取行动。"
+    },
+    {
+      "id": 25,
+      "word": "benefit",
+      "frequency": 38,
+      "phonetic": "/'benɪfɪt/",
+      "pos": "n.",
+      "meaning": "利益；好处",
+      "example_en": "Exercise has many health benefits.",
+      "example_zh": "锻炼对健康有很多好处。"
+    },
+    {
+      "id": 113,
+      "word": "whatever",
+      "frequency": 38,
+      "phonetic": "/wɒt'sʌvər/",
+      "pos": "pron.",
+      "meaning": "无论什么",
+      "example_en": "Do whatever you like.",
+      "example_zh": "做你喜欢的事。"
+    },
+    {
+      "id": 55,
+      "word": "intelligence",
+      "frequency": 39,
+      "phonetic": "/ɪn'telɪdʒəns/",
+      "pos": "n.",
+      "meaning": "智力；智慧",
+      "example_en": "He shows great intelligence.",
+      "example_zh": "他显示出非凡的智慧。"
+    },
+    {
+      "id": 125,
+      "word": "deal",
+      "frequency": 39,
+      "phonetic": "/diːl/",
+      "pos": "v.",
+      "meaning": "处理；交易",
+      "example_en": "I need to deal with this problem.",
+      "example_zh": "我需要处理这个问题。"
+    },
+    {
+      "id": 10,
+      "word": "rare",
+      "frequency": 41,
+      "phonetic": "/rear/",
+      "pos": "a.",
+      "meaning": "稀有的；罕见的",
+      "example_en": "Pandas are rare animals.",
+      "example_zh": "熊猫是稀有动物。"
+    },
+    {
+      "id": 108,
+      "word": "professional",
+      "frequency": 41,
+      "phonetic": "/ˌpreʃəfeʃənel/",
+      "pos": "a.",
+      "meaning": "专业的",
+      "example_en": "He is a professional photographer.",
+      "example_zh": "他是一位专业摄影师。"
+    },
+    {
+      "id": 27,
+      "word": "expand",
+      "frequency": 42,
+      "phonetic": "/ɪk'spænd/",
+      "pos": "v.",
+      "meaning": "扩展；扩大",
+      "example_en": "The company plans to expand overseas.",
+      "example_zh": "公司计划向海外扩张。"
+    },
+    {
+      "id": 30,
+      "word": "policy",
+      "frequency": 42,
+      "phonetic": "/'pɒləsi/",
+      "pos": "n.",
+      "meaning": "政策；方针",
+      "example_en": "The government announced a new policy.",
+      "example_zh": "政府宣布了一项新政策。"
+    },
+    {
+      "id": 8,
+      "word": "gym",
+      "frequency": 43,
+      "phonetic": "/dʒɪm/",
+      "pos": "n.",
+      "meaning": "健身房",
+      "example_en": "I go to the gym three times a week.",
+      "example_zh": "我每周去三次健身房。"
+    },
+    {
+      "id": 120,
+      "word": "invest",
+      "frequency": 43,
+      "phonetic": "/ɪn'vest/",
+      "pos": "v.",
+      "meaning": "投资；投入",
+      "example_en": "He decided to invest in stocks.",
+      "example_zh": "他决定投资股票。"
+    },
+    {
+      "id": 11,
+      "word": "contact",
+      "frequency": 45,
+      "phonetic": "/'kɒntækt/",
+      "pos": "n.",
+      "meaning": "接触；联系",
+      "example_en": "Please contact me if you have any questions.",
+      "example_zh": "如果你有任何问题，请联系我。"
+    },
+    {
+      "id": 17,
+      "word": "access",
+      "frequency": 45,
+      "phonetic": "/'ækses/",
+      "pos": "n.",
+      "meaning": "访问；通道",
+      "example_en": "Students have free access to the library.",
+      "example_zh": "学生可以免费使用图书馆。"
+    },
+    {
+      "id": 4,
+      "word": "interaction",
+      "frequency": 46,
+      "phonetic": "/ˌɪntə'ækʃən/",
+      "pos": "n.",
+      "meaning": "互动；交 互",
+      "example_en": "The interaction between teachers and students is important.",
+      "example_zh": "师生之间的互动很重要。"
+    },
+    {
+      "id": 18,
+      "word": "career",
+      "frequency": 47,
+      "phonetic": "/ke'rɪər/",
+      "pos": "n.",
+      "meaning": "职业；生涯",
+      "example_en": "She chose a career in medicine.",
+      "example_zh": "她选择了医学事业。"
+    },
+    {
+      "id": 118,
+      "word": "participant",
+      "frequency": 48,
+      "phonetic": "/pɑːtɪsɪpənt/",
+      "pos": "n.",
+      "meaning": "参与者",
+      "example_en": "She was a participant in the study.",
+      "example_zh": "她是这项研究的参与者。"
+    },
+    {
+      "id": 22,
+      "word": "challenge",
+      "frequency": 49,
+      "phonetic": "/'tʃælɪndʒ/",
+      "pos": "n.",
+      "meaning": "挑战；质疑",
+      "example_en": "Learning a new language is a challenge.",
+      "example_zh": "学习一门新语言是一项挑战。"
+    },
+    {
+      "id": 14,
+      "word": "individual",
+      "frequency": 51,
+      "phonetic": "/ˌɪndɪ'vɪdʒuel/",
+      "pos": "n.",
+      "meaning": "个人；个体",
+      "example_en": "Each individual has different opinions.",
+      "example_zh": "每个人都有不同的观点。"
+    },
+    {
+      "id": 78,
+      "word": "decline",
+      "frequency": 54,
+      "phonetic": "/dɪ'klaɪn/",
+      "pos": "v.",
+      "meaning": "下降；拒绝",
+      "example_en": "His health began to decline.",
+      "example_zh": "他的健康开始下降。"
+    }
+  ]
+}

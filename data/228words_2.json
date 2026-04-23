@@ -1,466 +1,236 @@
 {
-  "name": "近5年高考英语228个高频词汇 (2/5)",
-  "description": "根据近5年高考英语真题统计的高频词汇清单，本分册 frequency 范围: 9-13",
+  "name": "228个高频词汇 (2/10)",
+  "description": "根据近5年高考英语真题统计的高频词汇清单，本分册 frequency 范围: 6-8",
   "words": [
     {
-      "id": 38,
-      "word": "coach",
-      "frequency": 9,
-      "phonetic": "/koutʃ/",
+      "id": 167,
+      "word": "extension",
+      "frequency": 6,
+      "phonetic": "/ɪk'stenʃen/",
       "pos": "n.",
-      "meaning": "教练；辅导员",
-      "example_en": "The basketball coach trained us every day.",
-      "example_zh": "篮球教练每天都训练我们。"
+      "meaning": "延长；扩展",
+      "example_en": "We need an extension of time.",
+      "example_zh": "我们需要延长时间。"
     },
     {
-      "id": 39,
-      "word": "scholarship",
-      "frequency": 9,
-      "phonetic": "/'skɒləʃɪp/",
-      "pos": "n.",
-      "meaning": "奖学金",
-      "example_en": "She won a scholarship to study abroad.",
-      "example_zh": "她获得了出国留学的奖学金。"
-    },
-    {
-      "id": 73,
-      "word": "supervise",
-      "frequency": 9,
-      "phonetic": "/'suːpərˌvaɪz/",
+      "id": 177,
+      "word": "assure",
+      "frequency": 6,
+      "phonetic": "/ə'juer/",
       "pos": "v.",
-      "meaning": "监督；管理",
-      "example_en": "The teacher supervised the students.",
-      "example_zh": "老师监督着学生们。"
+      "meaning": "保证；使确信",
+      "example_en": "I assure you everything will be fine.",
+      "example_zh": "我向你保证一切都会好的。"
     },
     {
-      "id": 79,
-      "word": "privacy",
-      "frequency": 9,
-      "phonetic": "/'praɪvesi/",
-      "pos": "n.",
-      "meaning": "隐私",
-      "example_en": "We should respect others' privacy.",
-      "example_zh": "我们应该尊重他人的隐私。"
-    },
-    {
-      "id": 89,
-      "word": "sympathy",
-      "frequency": 9,
-      "phonetic": "/'sɪmpəθi/",
-      "pos": "n.",
-      "meaning": "同情；共鸣",
-      "example_en": "He felt sympathy for the poor man.",
-      "example_zh": "他同情那个可怜的人。"
-    },
-    {
-      "id": 95,
-      "word": "realistic",
-      "frequency": 9,
-      "phonetic": "/ˌriːəlɪ'stɪk/",
+      "id": 181,
+      "word": "global",
+      "frequency": 6,
+      "phonetic": "/'ɡləubel/",
       "pos": "a.",
-      "meaning": "现实的；实际的",
-      "example_en": "We need to be realistic.",
-      "example_zh": "我们需要现实一点。"
+      "meaning": "全球的；全世界的",
+      "example_en": "Global warming is a serious issue.",
+      "example_zh": "全球变暖是一个严重的问题。"
     },
     {
-      "id": 96,
-      "word": "candidate",
-      "frequency": 9,
-      "phonetic": "/'kændzˌdeɪt/",
-      "pos": "n.",
-      "meaning": "候选人；申请人",
-      "example_en": "He is a good candidate for the job.",
-      "example_zh": "他是这个职位的好人选。"
+      "id": 190,
+      "word": "straightforward",
+      "frequency": 6,
+      "phonetic": "/ˌstreɪtˈfɔːwəd/",
+      "pos": "a.",
+      "meaning": "直率的；简单的",
+      "example_en": "Just follow the straightforward instructions.",
+      "example_zh": "只需按照简单的说明操作。"
     },
     {
-      "id": 140,
-      "word": "retire",
-      "frequency": 9,
-      "phonetic": "/rɪ'taɪər/",
+      "id": 198,
+      "word": "summarize",
+      "frequency": 6,
+      "phonetic": "/'sʌmeraɪz/",
       "pos": "v.",
-      "meaning": "退休；撤退",
-      "example_en": "My grandfather will retire next year.",
-      "example_zh": "我祖父明年将退休。"
+      "meaning": "总结；概括",
+      "example_en": "Please summarize the story.",
+      "example_zh": "请总结一下这个故事。"
     },
     {
-      "id": 183,
-      "word": "regardless",
-      "frequency": 9,
-      "phonetic": "/rɪ'gɑːrdles/",
+      "id": 90,
+      "word": "delicate",
+      "frequency": 7,
+      "phonetic": "/'dεlɪkət/",
+      "pos": "a.",
+      "meaning": "精致的；微妙的",
+      "example_en": "The vase is very delicate.",
+      "example_zh": "这个花瓶非常精致。"
+    },
+    {
+      "id": 91,
+      "word": "calendar",
+      "frequency": 7,
+      "phonetic": "/'kælɪndər/",
+      "pos": "n.",
+      "meaning": "日历；日程",
+      "example_en": "Check the calendar for the date.",
+      "example_zh": "查看日历上的日期。"
+    },
+    {
+      "id": 132,
+      "word": "supplement",
+      "frequency": 7,
+      "phonetic": "/'sʌplɪˌment/",
+      "pos": "n.",
+      "meaning": "补充；增补",
+      "example_en": "Take vitamin supplements.",
+      "example_zh": "服用维生素补充剂。"
+    },
+    {
+      "id": 134,
+      "word": "merchant",
+      "frequency": 7,
+      "phonetic": "/'mɜːrtʃənt/",
+      "pos": "n.",
+      "meaning": "商人；商贩",
+      "example_en": "The merchant sold spices.",
+      "example_zh": "商人卖香料。"
+    },
+    {
+      "id": 142,
+      "word": "fame",
+      "frequency": 7,
+      "phonetic": "/feɪm/",
+      "pos": "n.",
+      "meaning": "名声；声誉",
+      "example_en": "He achieved fame as a writer.",
+      "example_zh": "他作为作家成名了。"
+    },
+    {
+      "id": 152,
+      "word": "melt",
+      "frequency": 7,
+      "phonetic": "/mεit/",
+      "pos": "v.",
+      "meaning": "(使)融化",
+      "example_en": "The snow will melt in spring.",
+      "example_zh": "雪在春天会融化。"
+    },
+    {
+      "id": 166,
+      "word": "withdraw",
+      "frequency": 7,
+      "phonetic": "/wɪð'droː/",
+      "pos": "v.",
+      "meaning": "撤回；退回",
+      "example_en": "He decided to withdraw from the competition.",
+      "example_zh": "他决定退出比赛。"
+    },
+    {
+      "id": 59,
+      "word": "semester",
+      "frequency": 8,
+      "phonetic": "/sɪ'mæster/",
+      "pos": "n.",
+      "meaning": "学期",
+      "example_en": "The new semester starts in September.",
+      "example_zh": "新学期九月开始。"
+    },
+    {
+      "id": 67,
+      "word": "assumption",
+      "frequency": 8,
+      "phonetic": "/ə'sʌmpʃən/",
+      "pos": "n.",
+      "meaning": "假设；设想",
+      "example_en": "Your assumption is wrong.",
+      "example_zh": "你的假设是错误的。"
+    },
+    {
+      "id": 88,
+      "word": "comprehension",
+      "frequency": 8,
+      "phonetic": "/ˌkɒmprɪˈhenʃn/",
+      "pos": "n.",
+      "meaning": "理解(力)",
+      "example_en": "Reading comprehension is important.",
+      "example_zh": "阅读理解很重要。"
+    },
+    {
+      "id": 100,
+      "word": "loan",
+      "frequency": 8,
+      "phonetic": "/loun/",
+      "pos": "n.",
+      "meaning": "贷款；借款",
+      "example_en": "He took out a loan to buy a house.",
+      "example_zh": "他贷款买了房子。"
+    },
+    {
+      "id": 135,
+      "word": "amateur",
+      "frequency": 8,
+      "phonetic": "/'æmetər/",
+      "pos": "n.",
+      "meaning": "业余爱好者；外行",
+      "example_en": "He is an amateur photographer.",
+      "example_zh": "他是一位业余摄影师。"
+    },
+    {
+      "id": 148,
+      "word": "elegant",
+      "frequency": 8,
+      "phonetic": "/ɪslɡent/",
+      "pos": "a.",
+      "meaning": "优美的；高雅的",
+      "example_en": "She looks very elegant in that dress.",
+      "example_zh": "她穿那件裙子看起来非常优雅。"
+    },
+    {
+      "id": 151,
+      "word": "presumably",
+      "frequency": 8,
+      "phonetic": "/prɪ'zjuːməbli/",
       "pos": "adv.",
-      "meaning": "不管怎样",
-      "example_en": "He did it regardless of the danger.",
-      "example_zh": "他不顾危险做了这件事。"
+      "meaning": "大概",
+      "example_en": "Presumably, he will come late.",
+      "example_zh": "大概他会迟到。"
     },
     {
-      "id": 185,
-      "word": "plague",
-      "frequency": 9,
-      "phonetic": "/pleɪg/",
+      "id": 161,
+      "word": "scenery",
+      "frequency": 8,
+      "phonetic": "/'siːnəri/",
       "pos": "n.",
-      "meaning": "瘟疫；灾难",
-      "example_en": "The plague killed many people.",
-      "example_zh": "瘟疫夺走了很多人的生命。"
+      "meaning": "风景；景色",
+      "example_en": "The scenery here is beautiful.",
+      "example_zh": "这里的风景很美。"
     },
     {
-      "id": 197,
-      "word": "resume",
-      "frequency": 9,
-      "phonetic": "/rɪ'zju:m/",
+      "id": 164,
+      "word": "neglect",
+      "frequency": 8,
+      "phonetic": "/nɪ'glekt/",
       "pos": "v.",
-      "meaning": "重新开始；简历",
-      "example_en": "Let's resume our discussion.",
-      "example_zh": "让我们继续讨论。"
+      "meaning": "忽视；忽略",
+      "example_en": "Don't neglect your studies.",
+      "example_zh": "不要忽视你的学业。"
     },
     {
-      "id": 202,
-      "word": "agency",
-      "frequency": 9,
-      "phonetic": "/'eɪdʒənsi/",
-      "pos": "n.",
-      "meaning": "代理机构",
-      "example_en": "He works at a travel agency.",
-      "example_zh": "他在一家旅行社工作。"
-    },
-    {
-      "id": 53,
-      "word": "lunar",
-      "frequency": 10,
-      "phonetic": "/'luːnər/",
+      "id": 169,
+      "word": "aggressive",
+      "frequency": 8,
+      "phonetic": "/ə'gresɪv/",
       "pos": "a.",
-      "meaning": "阴历的，月球的",
-      "example_en": "The lunar calendar is used in China.",
-      "example_zh": "中国使用农历。"
+      "meaning": "侵略的；好斗的",
+      "example_en": "Aggressive behavior is not acceptable.",
+      "example_zh": "攻击性的行为是不可接受的。"
     },
     {
-      "id": 63,
-      "word": "volcano",
-      "frequency": 10,
-      "phonetic": "/vɒl'keɪnəu/",
-      "pos": "n.",
-      "meaning": "火山",
-      "example_en": "The volcano erupted last year.",
-      "example_zh": "这座火山去年喷发了。"
-    },
-    {
-      "id": 131,
-      "word": "approve",
-      "frequency": 10,
-      "phonetic": "/ə'pruːv/",
-      "pos": "v.",
-      "meaning": "批准；同意",
-      "example_en": "The committee approved the plan.",
-      "example_zh": "委员会批准了这个计划。"
-    },
-    {
-      "id": 193,
-      "word": "recruit",
-      "frequency": 10,
-      "phonetic": "/rɪ'kru:t/",
-      "pos": "v.",
-      "meaning": "招募；吸收",
-      "example_en": "The company wants to recruit new staff.",
-      "example_zh": "公司想招聘新员工。"
-    },
-    {
-      "id": 211,
-      "word": "target",
-      "frequency": 10,
-      "phonetic": "/'tɑːgɪt/",
-      "pos": "n.",
-      "meaning": "目标；靶子",
-      "example_en": "Our target is to finish by Friday.",
-      "example_zh": "我们的目标是周五前完成。"
-    },
-    {
-      "id": 35,
-      "word": "yield",
-      "frequency": 11,
-      "phonetic": "/ji:ld/",
-      "pos": "v.",
-      "meaning": "产生；屈服",
-      "example_en": "The farm yields good crops.",
-      "example_zh": "这个农场收成很好。"
-    },
-    {
-      "id": 47,
-      "word": "admission",
-      "frequency": 11,
-      "phonetic": "/əd'mɪʃən/",
-      "pos": "n.",
-      "meaning": "录取；准许进入",
-      "example_en": "She gained admission to the university.",
-      "example_zh": "她被这所大学录取了。"
-    },
-    {
-      "id": 56,
-      "word": "impose",
-      "frequency": 11,
-      "phonetic": "/ɪm'pouz/",
-      "pos": "v.",
-      "meaning": "强加；施加",
-      "example_en": "Don't impose your ideas on others.",
-      "example_zh": "不要把你的想法强加给别人。"
-    },
-    {
-      "id": 70,
-      "word": "revenue",
-      "frequency": 11,
-      "phonetic": "/'rεvenjuː/",
-      "pos": "n.",
-      "meaning": "收入；税收",
-      "example_en": "The company's revenue increased.",
-      "example_zh": "公司的收入增加了。"
-    },
-    {
-      "id": 72,
-      "word": "bias",
-      "frequency": 11,
-      "phonetic": "/'baɪes/",
-      "pos": "n.",
-      "meaning": "偏见；偏向",
-      "example_en": "The article has a bias.",
-      "example_zh": "这篇文章有偏见。"
-    },
-    {
-      "id": 117,
-      "word": "unfortunately",
-      "frequency": 11,
-      "phonetic": "/ʌnˈfɔːtʃənətli/",
+      "id": 195,
+      "word": "readily",
+      "frequency": 8,
+      "phonetic": "/'redɪli/",
       "pos": "adv.",
-      "meaning": "不幸地；遗憾地",
-      "example_en": "Unfortunately, I missed the train.",
-      "example_zh": "不幸的是，我错过了火车。"
-    },
-    {
-      "id": 145,
-      "word": "qualify",
-      "frequency": 11,
-      "phonetic": "/'kwɒlɪfaɪ/",
-      "pos": "v.",
-      "meaning": "胜任；合格",
-      "example_en": "He qualified for the competition.",
-      "example_zh": "他有资格参加比赛。"
-    },
-    {
-      "id": 155,
-      "word": "concentrate",
-      "frequency": 11,
-      "phonetic": "/'kɔnsentreɪt/",
-      "pos": "v.",
-      "meaning": "集中",
-      "example_en": "I need to concentrate on my work.",
-      "example_zh": "我需要集中精力工作。"
-    },
-    {
-      "id": 158,
-      "word": "formal",
-      "frequency": 11,
-      "phonetic": "/'fɔːrməl/",
-      "pos": "a.",
-      "meaning": "正式的；正规的",
-      "example_en": "You need formal clothes for the party.",
-      "example_zh": "你需要正式的衣服参加派对。"
-    },
-    {
-      "id": 165,
-      "word": "temporary",
-      "frequency": 11,
-      "phonetic": "/'temperəri/",
-      "pos": "a.",
-      "meaning": "临时的",
-      "example_en": "This is a temporary solution.",
-      "example_zh": "这是一个临时解决方案。"
-    },
-    {
-      "id": 174,
-      "word": "export",
-      "frequency": 11,
-      "phonetic": "/ɪk'spɔːrt/",
-      "pos": "v.",
-      "meaning": "出口；输出",
-      "example_en": "China exports many products.",
-      "example_zh": "中国出口很多产品。"
-    },
-    {
-      "id": 178,
-      "word": "stem",
-      "frequency": 11,
-      "phonetic": "/stεm/",
-      "pos": "v.",
-      "meaning": "阻止；源于",
-      "example_en": "The problem stems from poor communication.",
-      "example_zh": "问题源于沟通不畅。"
-    },
-    {
-      "id": 186,
-      "word": "rescue",
-      "frequency": 11,
-      "phonetic": "/'reskjuː/",
-      "pos": "v.",
-      "meaning": "救援；解 救",
-      "example_en": "The firemen came to rescue us.",
-      "example_zh": "消防员来救援我们了。"
-    },
-    {
-      "id": 188,
-      "word": "negotiate",
-      "frequency": 11,
-      "phonetic": "/nɪ'geuʃieɪt/",
-      "pos": "v.",
-      "meaning": "协商；谈判",
-      "example_en": "We need to negotiate the price.",
-      "example_zh": "我们需要协商价格。"
-    },
-    {
-      "id": 222,
-      "word": "disguise",
-      "frequency": 11,
-      "phonetic": "/dɪs'gaɪz/",
-      "pos": "v.",
-      "meaning": "假扮；掩饰",
-      "example_en": "He wore a disguise to the party.",
-      "example_zh": "他乔装打扮去参加派对。"
-    },
-    {
-      "id": 225,
-      "word": "consultant",
-      "frequency": 11,
-      "phonetic": "/kənsʌltənt/",
-      "pos": "n.",
-      "meaning": "顾问",
-      "example_en": "They hired a consultant to help.",
-      "example_zh": "他们雇了一位顾问来帮忙。"
-    },
-    {
-      "id": 37,
-      "word": "exceptional",
-      "frequency": 12,
-      "phonetic": "/ɪk'sepʃənəl/",
-      "pos": "a.",
-      "meaning": "杰出的",
-      "example_en": "He has exceptional talent in music.",
-      "example_zh": "他在音乐方面有非凡的天赋。"
-    },
-    {
-      "id": 50,
-      "word": "patience",
-      "frequency": 12,
-      "phonetic": "/'peɪʃəns/",
-      "pos": "n.",
-      "meaning": "耐心；忍耐",
-      "example_en": "Teaching requires a lot of patience.",
-      "example_zh": "教学需要很大的耐心。"
-    },
-    {
-      "id": 84,
-      "word": "package",
-      "frequency": 12,
-      "phonetic": "/'pækɪdʒ/",
-      "pos": "n.",
-      "meaning": "包裹；包装",
-      "example_en": "I received a package today.",
-      "example_zh": "我今天收到了一个包裹。"
-    },
-    {
-      "id": 150,
-      "word": "website",
-      "frequency": 12,
-      "phonetic": "/'wεbˌsaɪt/",
-      "pos": "n.",
-      "meaning": "网站",
-      "example_en": "Visit our website for more information.",
-      "example_zh": "访问我们的网站获取更多信息。"
-    },
-    {
-      "id": 154,
-      "word": "rational",
-      "frequency": 12,
-      "phonetic": "/'ræʃənel/",
-      "pos": "a.",
-      "meaning": "理性的；合理的",
-      "example_en": "Try to make a rational decision.",
-      "example_zh": "试着做出理性的决定。"
-    },
-    {
-      "id": 156,
-      "word": "trap",
-      "frequency": 12,
-      "phonetic": "/træp/",
-      "pos": "v.",
-      "meaning": "陷阱；捕捉",
-      "example_en": "The mouse was caught in a trap.",
-      "example_zh": "老鼠被陷阱捉住了。"
-    },
-    {
-      "id": 170,
-      "word": "mild",
-      "frequency": 12,
-      "phonetic": "/maɪld/",
-      "pos": "a.",
-      "meaning": "温和的；轻微的",
-      "example_en": "Today has mild weather.",
-      "example_zh": "今天天气温和。"
-    },
-    {
-      "id": 182,
-      "word": "expense",
-      "frequency": 12,
-      "phonetic": "/ɪk'spεns/",
-      "pos": "n.",
-      "meaning": "花费；开支",
-      "example_en": "The expense was too high.",
-      "example_zh": "费用太高了。"
-    },
-    {
-      "id": 189,
-      "word": "commodity",
-      "frequency": 12,
-      "phonetic": "/kə'mɒdɪti/",
-      "pos": "n.",
-      "meaning": "商品",
-      "example_en": "Wheat is an important commodity.",
-      "example_zh": "小麦是一种重要的商品。"
-    },
-    {
-      "id": 214,
-      "word": "network",
-      "frequency": 12,
-      "phonetic": "/'nstwɜːk/",
-      "pos": "n.",
-      "meaning": "网络；联络网",
-      "example_en": "We need to build a network of contacts.",
-      "example_zh": "我们需要建立一个联系网络。"
-    },
-    {
-      "id": 216,
-      "word": "revolutionary",
-      "frequency": 12,
-      "phonetic": "/ˌreɪ'lu:ʃəneri/",
-      "pos": "a.",
-      "meaning": "革命的",
-      "example_en": "This is a revolutionary invention.",
-      "example_zh": "这是一项革命性的发明。"
-    },
-    {
-      "id": 226,
-      "word": "cruise",
-      "frequency": 12,
-      "phonetic": "/kruːz/",
-      "pos": "n.",
-      "meaning": "游船；巡航",
-      "example_en": "They went on a cruise for their vacation.",
-      "example_zh": "他们乘船度假。"
-    },
-    {
-      "id": 24,
-      "word": "register",
-      "frequency": 13,
-      "phonetic": "/'redʒɪster/",
-      "pos": "v.",
-      "meaning": "注册；登记",
-      "example_en": "You need to register online first.",
-      "example_zh": "你需要先在网上注册。"
+      "meaning": "容易地；乐意地",
+      "example_en": "She readily agreed to help.",
+      "example_zh": "她欣然同意帮忙。"
     }
   ]
 }

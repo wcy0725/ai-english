@@ -1,0 +1,226 @@
+{
+  "name": "228个高频词汇 (8/10)",
+  "description": "根据近5年高考英语真题统计的高频词汇清单，本分册 frequency 范围: 24-36",
+  "words": [
+    {
+      "id": 130,
+      "word": "exist",
+      "frequency": 24,
+      "phonetic": "/ɪg'zɪst/",
+      "pos": "v.",
+      "meaning": "存在；生存",
+      "example_en": "Dinosaurs no longer exist.",
+      "example_zh": "恐龙已经不存在了。"
+    },
+    {
+      "id": 1,
+      "word": "mature",
+      "frequency": 25,
+      "phonetic": "/me'tjuər/",
+      "pos": "a.",
+      "meaning": "成熟的；深思熟虑的",
+      "example_en": "She is mature for her age.",
+      "example_zh": "以她的年龄来说，她很成熟。"
+    },
+    {
+      "id": 23,
+      "word": "employer",
+      "frequency": 25,
+      "phonetic": "/ɪm'pɔɪər/",
+      "pos": "n.",
+      "meaning": "雇主",
+      "example_en": "The employer interviewed five candidates.",
+      "example_zh": "雇主面试了五位候选人。"
+    },
+    {
+      "id": 116,
+      "word": "associate",
+      "frequency": 25,
+      "phonetic": "/ə'sousiˌeɪt/",
+      "pos": "v.",
+      "meaning": "关联；联合",
+      "example_en": "We associate red with danger.",
+      "example_zh": "我们把红色和危险联系起来。"
+    },
+    {
+      "id": 206,
+      "word": "survival",
+      "frequency": 25,
+      "phonetic": "/se'vaɪvel/",
+      "pos": "n.",
+      "meaning": "幸存(者)",
+      "example_en": "His survival was a miracle.",
+      "example_zh": "他能活下来是个奇迹。"
+    },
+    {
+      "id": 114,
+      "word": "shift",
+      "frequency": 26,
+      "phonetic": "/ʃɪft/",
+      "pos": "v.",
+      "meaning": "转变；改变",
+      "example_en": "They shifted the furniture around.",
+      "example_zh": "他们把家具搬来搬去。"
+    },
+    {
+      "id": 20,
+      "word": "budget",
+      "frequency": 28,
+      "phonetic": "/'bʌdʒɪt/",
+      "pos": "n.",
+      "meaning": "预算",
+      "example_en": "We need to stay within our budget.",
+      "example_zh": "我们需要保持在预算范围内。"
+    },
+    {
+      "id": 51,
+      "word": "essential",
+      "frequency": 28,
+      "phonetic": "/ɪ'senʃəl/",
+      "pos": "a.",
+      "meaning": "必要的；基本的",
+      "example_en": "Water is essential for life.",
+      "example_zh": "水对生命至关重要。"
+    },
+    {
+      "id": 9,
+      "word": "responsible",
+      "frequency": 29,
+      "phonetic": "/rɪ'sɒnsebl/",
+      "pos": "a.",
+      "meaning": "负责的",
+      "example_en": "You are responsible for your own actions.",
+      "example_zh": "你要对自己的行为负责。"
+    },
+    {
+      "id": 126,
+      "word": "ensure",
+      "frequency": 30,
+      "phonetic": "/ɪn'jʊr/",
+      "pos": "v.",
+      "meaning": "确 保；保证",
+      "example_en": "Please ensure the door is locked.",
+      "example_zh": "请确保门已锁好。"
+    },
+    {
+      "id": 48,
+      "word": "natural",
+      "frequency": 31,
+      "phonetic": "/'nætʃərəl/",
+      "pos": "a.",
+      "meaning": "自然的；天然的",
+      "example_en": "It is natural to feel nervous.",
+      "example_zh": "感到紧张是很自然的。"
+    },
+    {
+      "id": 82,
+      "word": "combine",
+      "frequency": 31,
+      "phonetic": "/kəm'baɪn/",
+      "pos": "v.",
+      "meaning": "结合",
+      "example_en": "We should combine theory with practice.",
+      "example_zh": "我们应该把理论与实践相结合。"
+    },
+    {
+      "id": 115,
+      "word": "encourage",
+      "frequency": 32,
+      "phonetic": "/ɪn'kɜːrɪdʒ/",
+      "pos": "v.",
+      "meaning": "鼓励；激励",
+      "example_en": "My parents encourage me to study hard.",
+      "example_zh": "我父母鼓励我努力学习。"
+    },
+    {
+      "id": 2,
+      "word": "supreme",
+      "frequency": 33,
+      "phonetic": "/suː'pri:m/",
+      "pos": "a.",
+      "meaning": "至高无上的",
+      "example_en": "The supreme court made the final decision.",
+      "example_zh": "最高法院做出了最终判决。"
+    },
+    {
+      "id": 29,
+      "word": "interview",
+      "frequency": 33,
+      "phonetic": "/'ɪntərˌvjuː/",
+      "pos": "n.",
+      "meaning": "面试；访谈",
+      "example_en": "She had a job interview yesterday.",
+      "example_zh": "她昨天参加了一个工作面试。"
+    },
+    {
+      "id": 143,
+      "word": "educational",
+      "frequency": 33,
+      "phonetic": "/ˌedʒuˈkeɪʃənəl/",
+      "pos": "a.",
+      "meaning": "教育的",
+      "example_en": "This is an educational program.",
+      "example_zh": "这是一个教育节目。"
+    },
+    {
+      "id": 15,
+      "word": "factor",
+      "frequency": 34,
+      "phonetic": "/'fæktər/",
+      "pos": "n.",
+      "meaning": "因素",
+      "example_en": "Health is an important factor for happiness.",
+      "example_zh": "健康是幸福的重要因素。"
+    },
+    {
+      "id": 13,
+      "word": "current",
+      "frequency": 35,
+      "phonetic": "/'kʌrent/",
+      "pos": "a.",
+      "meaning": "当前的；流行的",
+      "example_en": "The current situation is improving.",
+      "example_zh": "当前的形势正在好转。"
+    },
+    {
+      "id": 68,
+      "word": "effective",
+      "frequency": 35,
+      "phonetic": "/ɪ'fektɪv/",
+      "pos": "a.",
+      "meaning": "有效的",
+      "example_en": "This medicine is very effective.",
+      "example_zh": "这种药非常有效。"
+    },
+    {
+      "id": 106,
+      "word": "helpful",
+      "frequency": 35,
+      "phonetic": "/'helpfəl/",
+      "pos": "a.",
+      "meaning": "有帮助的；有 益的",
+      "example_en": "Your advice was very helpful.",
+      "example_zh": "你的建议很有帮助。"
+    },
+    {
+      "id": 36,
+      "word": "connect",
+      "frequency": 36,
+      "phonetic": "/ke'ækt/",
+      "pos": "v.",
+      "meaning": "连接；联系",
+      "example_en": "The bridge connects the two cities.",
+      "example_zh": "这座桥连接了两个城市。"
+    },
+    {
+      "id": 129,
+      "word": "difference",
+      "frequency": 36,
+      "phonetic": "/'dɪfərens/",
+      "pos": "n.",
+      "meaning": "差异；不同",
+      "example_en": "Can you see the difference?",
+      "example_zh": "你能看出区别吗？"
+    }
+  ]
+}

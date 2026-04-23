@@ -1,0 +1,236 @@
+{
+  "name": "228个高频词汇 (6/10)",
+  "description": "根据近5年高考英语真题统计的高频词汇清单，本分册 frequency 范围: 15-17",
+  "words": [
+    {
+      "id": 157,
+      "word": "accuse",
+      "frequency": 15,
+      "phonetic": "/ə'kjuːz/",
+      "pos": "v.",
+      "meaning": "控告；指控",
+      "example_en": "They accused him of stealing.",
+      "example_zh": "他们指控他偷窃。"
+    },
+    {
+      "id": 163,
+      "word": "genius",
+      "frequency": 15,
+      "phonetic": "/'dʒiːnies/",
+      "pos": "n.",
+      "meaning": "天才；才智",
+      "example_en": "Einstein was a genius.",
+      "example_zh": "爱因斯坦是个天才。"
+    },
+    {
+      "id": 172,
+      "word": "shrink",
+      "frequency": 15,
+      "phonetic": "/ʃrɪŋk/",
+      "pos": "v.",
+      "meaning": "收缩；缩水",
+      "example_en": "This shirt might shrink.",
+      "example_zh": "这件衬衫可能会缩水。"
+    },
+    {
+      "id": 194,
+      "word": "illustrate",
+      "frequency": 15,
+      "phonetic": "/'ɪləstreɪt/",
+      "pos": "v.",
+      "meaning": "说明；阐明",
+      "example_en": "Let me illustrate with an example.",
+      "example_zh": "让我用一个例子来说明。"
+    },
+    {
+      "id": 201,
+      "word": "plot",
+      "frequency": 15,
+      "phonetic": "/plot/",
+      "pos": "n.",
+      "meaning": "情节；阴谋",
+      "example_en": "The movie has an interesting plot.",
+      "example_zh": "这部电影情节有趣。"
+    },
+    {
+      "id": 212,
+      "word": "appropriate",
+      "frequency": 15,
+      "phonetic": "/ə'prəupriɪt/",
+      "pos": "a.",
+      "meaning": "合适的",
+      "example_en": "Wear appropriate clothes for the occasion.",
+      "example_zh": "穿适合场合的衣服。"
+    },
+    {
+      "id": 6,
+      "word": "previous",
+      "frequency": 16,
+      "phonetic": "/'pri:vies/",
+      "pos": "a.",
+      "meaning": "以前的；先前的",
+      "example_en": "I met him on a previous occasion.",
+      "example_zh": "我在之前的一个场合见过他。"
+    },
+    {
+      "id": 32,
+      "word": "imply",
+      "frequency": 16,
+      "phonetic": "/ɪm'plaɪ/",
+      "pos": "v.",
+      "meaning": "暗示；意味",
+      "example_en": "His silence implied disagreement.",
+      "example_zh": "他的沉默暗示了不同意。"
+    },
+    {
+      "id": 77,
+      "word": "anyway",
+      "frequency": 16,
+      "phonetic": "/'sʌŋ.weɪ/",
+      "pos": "adv.",
+      "meaning": "无论如何；总之",
+      "example_en": "Anyway, let's continue.",
+      "example_zh": "无论如何，我们继续吧。"
+    },
+    {
+      "id": 110,
+      "word": "achievement",
+      "frequency": 16,
+      "phonetic": "/ə'tʃiːvmənt/",
+      "pos": "n.",
+      "meaning": "成就；完成",
+      "example_en": "Winning the award was a great achievement.",
+      "example_zh": "获奖是一项伟大的成就。"
+    },
+    {
+      "id": 149,
+      "word": "confirm",
+      "frequency": 16,
+      "phonetic": "/kən'fɜːrm/",
+      "pos": "v.",
+      "meaning": "证实；确认",
+      "example_en": "Please confirm your appointment.",
+      "example_zh": "请确认你的预约。"
+    },
+    {
+      "id": 207,
+      "word": "witness",
+      "frequency": 16,
+      "phonetic": "/'wɪtnes/",
+      "pos": "n.",
+      "meaning": "目击者； v.目击",
+      "example_en": "She witnessed the accident.",
+      "example_zh": "她目睹了这起事故。"
+    },
+    {
+      "id": 209,
+      "word": "selection",
+      "frequency": 16,
+      "phonetic": "/sɪ'leɪkʃən/",
+      "pos": "n.",
+      "meaning": "选择；挑选",
+      "example_en": "The store has a wide selection.",
+      "example_zh": "这家商店选择范围很广。"
+    },
+    {
+      "id": 219,
+      "word": "update",
+      "frequency": 16,
+      "phonetic": "/əpdeɪt/",
+      "pos": "v.",
+      "meaning": "更新",
+      "example_en": "Please update the software.",
+      "example_zh": "请更新软件。"
+    },
+    {
+      "id": 28,
+      "word": "prime",
+      "frequency": 17,
+      "phonetic": "/praɪm/",
+      "pos": "a.",
+      "meaning": "主要的；首要的",
+      "example_en": "Safety is our prime concern.",
+      "example_zh": "安全是我们的首要关注点。"
+    },
+    {
+      "id": 44,
+      "word": "vote",
+      "frequency": 17,
+      "phonetic": "/vout/",
+      "pos": "v.",
+      "meaning": "投票；表决",
+      "example_en": "People will vote in the election tomorrow.",
+      "example_zh": "人们将在明天的选举中投票。"
+    },
+    {
+      "id": 45,
+      "word": "cash",
+      "frequency": 17,
+      "phonetic": "/kæʃ/",
+      "pos": "n.",
+      "meaning": "现金",
+      "example_en": "Do you have enough cash?",
+      "example_zh": "你有足够的现金吗？"
+    },
+    {
+      "id": 80,
+      "word": "brand",
+      "frequency": 17,
+      "phonetic": "/brænd/",
+      "pos": "n.",
+      "meaning": "品牌",
+      "example_en": "This is a famous brand.",
+      "example_zh": "这是一个著名的品牌。"
+    },
+    {
+      "id": 97,
+      "word": "perceive",
+      "frequency": 17,
+      "phonetic": "/pər'si:v/",
+      "pos": "v.",
+      "meaning": "感知；察觉",
+      "example_en": "She perceived a change in his attitude.",
+      "example_zh": "她觉察到他态度的变化。"
+    },
+    {
+      "id": 137,
+      "word": "authority",
+      "frequency": 17,
+      "phonetic": "/ɔ:'θɒrɪti/",
+      "pos": "n.",
+      "meaning": "权威；当局",
+      "example_en": "She has authority over the team.",
+      "example_zh": "她对团队有管理权。"
+    },
+    {
+      "id": 200,
+      "word": "welfare",
+      "frequency": 17,
+      "phonetic": "/'wɛlfɪər/",
+      "pos": "n.",
+      "meaning": "福利",
+      "example_en": "The government provides welfare programs.",
+      "example_zh": "政府提供福利项目。"
+    },
+    {
+      "id": 203,
+      "word": "decrease",
+      "frequency": 17,
+      "phonetic": "/dɪkri:s/",
+      "pos": "v/n.",
+      "meaning": "减少",
+      "example_en": "The number of students decreased.",
+      "example_zh": "学生人数减少了。"
+    },
+    {
+      "id": 213,
+      "word": "sheer",
+      "frequency": 17,
+      "phonetic": "/ʃɪər/",
+      "pos": "a.",
+      "meaning": "纯粹的",
+      "example_en": "It was a sheer waste of time.",
+      "example_zh": "这纯粹是浪费时间。"
+    }
+  ]
+}
